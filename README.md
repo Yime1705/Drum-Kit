@@ -8,11 +8,7 @@ A simple and interactive web-based drum kit that lets you play various drum soun
 - [How It Works](#how-it-works)  
 - [Files Structure](#files-structure)  
 - [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
-## Demo  
-You can try out the Drum Kit live [here](#). (Include link if hosted online)  
 
 ## Features  
 - 🎹 **Keyboard Support**: Play the drums using your keyboard. Each key corresponds to a different drum sound.  
